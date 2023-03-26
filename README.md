@@ -1,5 +1,7 @@
 # whisperを利用した文字起こしと議事録作成
 
+# [English here!](https://github.com/Ryusei2001/transcription-with-whisper/blob/main/README-en.md)
+
 ## 概要
 PC内蔵マイクなどを使い、音声データを録音・自動で文字起こし・記録を行います。
 通常whisperは動画ファイルなど固定長の動画ファイルから文字起こしをしますが、このプログラムでは会話の区切りを判別し会話ごとに文字起こしを行うため、事前に音声データを録音する必要性はありません。
